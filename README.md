@@ -1,6 +1,6 @@
 ![](alert_example.jpg)
 
-Would you like to receive a push notification on your phone and/or a SMS if someone tries to log into your Ubuntu while your user session is locked?
+Would you like to receive a push notification/alert on your phone and/or a SMS if someone tries to log into your Ubuntu (with invalid credentials) while your user session is locked?
 
 If so, this is your program.
 
