@@ -1,6 +1,6 @@
 ![](alert_example.jpg)
 
-Would you like to receive a push notification/alert on your phone and/or a SMS if someone tries to log into your Ubuntu (with invalid credentials) while your user session is locked?
+Would you like to receive a push notification/alert on your phone and/or a SMS if someone tries to log into your Ubuntu (with invalid password) while your user session is locked?
 
 If so, this is your program.
 
@@ -11,6 +11,9 @@ This software will send you a push notification and/or a SMS to your mobile devi
   Hint: With this provider, if the app has active notifications that stay as unread in app icon, then: open the app and hit on #feed, then scroll to the bottom. The notifications should clear out.
 
 However, you should be able to use other providers as long as they provide an API. I have provided these just as examples.
+
+If you are interested in desktop notifications that appear right after you log into the system successfully, check this out:
+https://github.com/sam-maverick/badlogin_desktop
 
 ## Requirements
 
